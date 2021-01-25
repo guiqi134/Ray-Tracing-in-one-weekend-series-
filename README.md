@@ -1,1 +1,1 @@
-# Ray-Tracing-in-one-weekend-series-
+# Ray Tracing in one weekend series
